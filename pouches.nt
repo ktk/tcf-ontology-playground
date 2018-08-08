@@ -41,6 +41,7 @@
 <http://tcfplayground.org/pouch/org/PanalpinaAB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Corporation> .
 <http://tcfplayground.org/pouch/org/PanalpinaAB> <http://www.w3.org/2000/01/rdf-schema#label> "Panalpina AB" .
 <http://tcfplayground.org/pouch/RailPouch> <http://purl.org/dc/terms/modified> "2018-08-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcfplayground.org/pouch/RailPouch> <http://schema.org/hasPart> <http://tcfplayground.org/schema/FancyWaggon> .
 <http://tcfplayground.org/pouch/RailPouch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/CreativeWork> .
 <http://tcfplayground.org/pouch/RailPouch> <http://www.w3.org/2000/01/rdf-schema#comment> "Everything related to the Rail Pouch" .
 <http://tcfplayground.org/pouch/RailPouch> <http://www.w3.org/2000/01/rdf-schema#label> "Rail Pouch" .
