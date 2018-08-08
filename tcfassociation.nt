@@ -1,1 +1,10 @@
-<http://tcfplayground.org/schema/> <http://purl.org/dc/terms/modified> "2018-08-02T11:38:21.701Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcfplayground.org/schema/FancyWaggon> <http://purl.org/dc/terms/modified> "2018-08-08T08:49:56.619Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcfplayground.org/schema/FancyWaggon> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://tcfplayground.org/schema/FancyWaggon> <http://www.w3.org/2000/01/rdf-schema#comment> "We need this desperatley" .
+<http://tcfplayground.org/schema/FancyWaggon> <http://www.w3.org/2000/01/rdf-schema#description> "This is a fancy waggon class" .
+<http://tcfplayground.org/schema/FancyWaggon> <http://www.w3.org/2000/01/rdf-schema#label> "FancyWaggon" .
+<http://tcfplayground.org/schema/weight> <http://purl.org/dc/terms/modified> "2018-08-08T08:49:56.619Z"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://tcfplayground.org/schema/weight> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://tcfplayground.org/schema/weight> <http://www.w3.org/2000/01/rdf-schema#description> "This is the weight of the object" .
+<http://tcfplayground.org/schema/weight> <http://www.w3.org/2000/01/rdf-schema#domain> <http://tcfplayground.org/schema/FancyWaggon> .
+<http://tcfplayground.org/schema/weight> <http://www.w3.org/2000/01/rdf-schema#label> "weight" .
